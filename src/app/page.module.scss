@@ -1,0 +1,13 @@
+.container{
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.settings{
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #A9A9A9;
+    height: 100%;
+    z-index: 1000;
+}

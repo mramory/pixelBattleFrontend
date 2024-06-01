@@ -1,0 +1,29 @@
+
+.container{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    div{
+        cursor: pointer;
+        border: 1px grey solid;
+        margin-right: 10px;
+        width: 24px;
+        height: 24px;
+    }
+}
+
+.red{
+    background-color: #ff0000;
+}
+.green{
+    background-color: #00ff00;
+}
+.blue{
+    background-color: #0000ff;
+}
+.white{
+    background-color: #ffffff;
+}
+.black{
+    background-color: #000000;
+}
